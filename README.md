@@ -1,12 +1,13 @@
+![logo](https://getflywheel.com/layout/wp-content/uploads/2021/07/The_Best_Java_Script_Libraries_1800x500-1-1800x500-1.jpeg)
 <h1 align="center">Hi 👋, I'm Marcin</h1>
 <h3 align="center">A passionate frontend student from Poland</h3>
 <img align="right" alt="Coding" width="500" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
 
-- 🔭 I’m currently working on **my own website**
+🔭 I’m currently working on **my own website**
 
-- 🌱 I’m currently learning **JavaScript & React**
+🌱 I’m currently learning **JavaScript & React**
 
-- 👨‍💻 All of my projects are available at [own website in progress...](own website in progress...)
+👨‍💻 All of my projects are available at [own website in progress...]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
